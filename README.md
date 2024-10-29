@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ilushkinn
+- 👋 Hi, I’m @illushkinn
 - 👀 I’m interested in read books
 - 🌱 I’m currently learning new technologies
 - 💞️ I’m looking to collaborate on awesome creative projects
