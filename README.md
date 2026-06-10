@@ -1,9 +1,60 @@
-- 👋 Hi, I’m @illushkinn
-- 👀 I’m interested in read books
-- 🌱 I’m currently learning new technologies
-- 💞️ I’m looking to collaborate on awesome creative projects
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&size=32&duration=3000&pause=1000&color=0066B1&center=true&vCenter=true&width=600&lines=Illya+Grytsyk;AI+Engineer+%26+Design+Systems;Growth+Partner" alt="Typing SVG" />
+</div>
 
-<!---
-illushkinn/illushkinn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🧠 AI Engineer · Design Systems · Growth Partner
+
+Construyo productos digitales que garpan. Especializado en **OKLCH design tokens**, arquitectura **3-layer Hardik Pandya**, **Astro + React + Tailwind**, y automatización con **agentes AI**.
+
+No hago plantillas. Escucho, entiendo, construyo.
+
+---
+
+### 🛠️ Stack
+
+```
+AI Agents   · OpenCode · SDD · Spec-Driven Development
+OKLCH       · Design Tokens 3-Layer · Tailwind v4
+Astro       · React 19 · TypeScript · Zustand
+PWA         · Vercel · WhatsApp Business API
+```
+
+---
+
+### 📦 Proyectos
+
+| Proyecto | Stack | Lo que hice |
+|----------|-------|-------------|
+| **[The Brand Crew](https://github.com/illushkinn/the-brand-crew)** | HTML/CSS · OKLCH 3-Layer · Vercel | Landing page con 0 errores de token audit, diseño cinematográfico, casos reales Behance-style |
+| **[Apolonia](https://github.com/illushkinn/verduleria-apolonia-mar-del-plata)** | Astro · React · Zustand · Tailwind v4 | Catálogo web 122 páginas, SEO local, PWA instalable, JSON-LD Product schema, WhatsApp checkout |
+| **[Luisito Playa Grande](https://github.com/illushkinn/luisito-playa-grande)** | Astro · Cart Modal · WhatsApp | Menú digital con carrito, pedidos WhatsApp, estilo vintage brutalista, 1955 heritage |
+
+---
+
+### 📐 Filosofía de código
+
+```css
+/* CSS puro resuelve el 90%. Auto-fit + minmax sobre media queries. */
+.bentoGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+}
+```
+
+> _"Carmen Ansio, Midudev y ManzDev me enseñaron que el over-engineering es el enemigo."_
+
+---
+
+### 📡 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0066B1?style=flat&logo=linkedin)](https://www.linkedin.com/in/illya-grytsyk/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-illyagrytsyk.vercel.app-121212?style=flat)](https://illya-grytsyk.vercel.app)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp)](https://wa.me/5491124063009)
+
+---
+
+<div align="center">
+  <sub>Mar del Plata, Argentina · 2026</sub>
+</div>
