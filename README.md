@@ -6,9 +6,7 @@
 
 ### 🧠 AI Engineer · Design Systems · Growth Partner
 
-Empecé hackeando themes de WordPress a los 16. Hoy diseño y construyo productos digitales con foco en performance y experiencia.
-
-Mi fascination with **Three.js** started when I realized the web could feel like a living, breathing space — not just flat pages. That obsession with motion and depth still drives every project.
+Construyo productos digitales con foco en performance y experiencia de navegación.
 
 ---
 
