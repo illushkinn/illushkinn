@@ -6,22 +6,11 @@
 
 ### 🧠 AI Engineer · Design Systems · Growth Partner
 
-Construyo productos digitales con foco en diseño y performance. Especializado en **Design Systems**, **Astro + React + Tailwind**, y automatización con **agentes AI**.
+Empecé hackeando themes de WordPress a los 16. Hoy diseño y construyo productos digitales con foco en performance y experiencia.
 
-Escucho, entiendo, construyo.
+Mi fascination with **Three.js** started when I realized the web could feel like a living, breathing space — not just flat pages. That obsession with motion and depth still drives every project.
 
-Cada proyecto es una historia corta: el cliente tiene un problema, yo escucho la primera frase, y ya sé qué armar. **Apolonia** nació de una charla de 10 minutos en una terraza de Mar del Plata. **Luisito Playa Grande** nació porque alguien me dijo "necesito un menú digital que no me haga perder clientes". Así fue: un fin de semana, un menú, pedidos por WhatsApp.
-
----
-
-### 🛠️ Stack
-
-```
-AI Agents   · OpenCode · SDD · Spec-Driven Development
-Design Systems · Tailwind v4
-Astro       · React 19 · TypeScript · Zustand
-PWA         · Vercel · WhatsApp Business API
-```
+Cada proyecto es una historia corta: el cliente tiene un problema, yo escucho la primera frase, y ya sé qué armar. **Apolonia** nació de una charla de 10 minutos en una terraza. **Luisito Playa Grande** nació porque alguien me dijo "necesito un menú digital que no me haga perder clientes". Un fin de semana, un menú, pedidos por WhatsApp.
 
 ---
 
@@ -29,9 +18,9 @@ PWA         · Vercel · WhatsApp Business API
 
 | Proyecto | Stack | Lo que hice |
 |----------|-------|-------------|
-| **[The Brand Crew](https://github.com/illushkinn/the-brand-crew)** | HTML/CSS · Design Systems · Vercel | Landing page con typewriter GSAP, hero cascade, pricing split |
-| **[Apolonia](https://github.com/illushkinn/verduleria-apolonia-mar-del-plata)** | Astro · React · Zustand · Tailwind v4 | Catálogo web 122 páginas, SEO local, PWA instalable, JSON-LD Product schema, WhatsApp checkout. El cliente me buscó después de ver el primer prototipo |
-| **[Luisito Playa Grande](https://github.com/illushkinn/luisito-playa-grande)** | Astro · Cart Modal · WhatsApp | Menú digital con carrito, pedidos WhatsApp, estilo vintage brutalista, 1955 heritage. Un fin de semana. Sin especificaciones. |
+| **[The Brand Crew](https://github.com/illushkinn/the-brand-crew)** | HTML/CSS · Vercel | Landing page con typewriter GSAP, hero cascade, pricing split |
+| **[Apolonia](https://github.com/illushkinn/verduleria-apolonia-mar-del-plata)** | Astro · React · Zustand | Catálogo web 122 páginas, SEO local, PWA instalable, WhatsApp checkout |
+| **[Luisito Playa Grande](https://github.com/illushkinn/luisito-playa-grande)** | Astro · Cart Modal | Menú digital con carrito, pedidos WhatsApp, estilo vintage brutalista |
 
 ---
 
@@ -44,8 +33,6 @@ PWA         · Vercel · WhatsApp Business API
   grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
 }
 ```
-
-> _"Carmen Ansio, Midudev y ManzDev me enseñaron que el over-engineering es el enemigo."_
 
 > _"Si necesitás GSAP para un efecto, preguntate si no podés hacerlo con una transición CSS de 0.3s. Si no podés, usá GSAP — pero no por default."_
 
@@ -60,5 +47,5 @@ PWA         · Vercel · WhatsApp Business API
 ---
 
 <div align="center">
-  <sub>Mar del Plata, Argentina · 2026</sub>
+  <sub>2026</sub>
 </div>
