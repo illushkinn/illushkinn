@@ -6,7 +6,7 @@
 
 ### 🧠 AI Engineer · Design Systems · Growth Partner
 
-Construyo productos digitales que garpan. Especializado en **OKLCH design tokens**, arquitectura **3-layer Hardik Pandya**, **Astro + React + Tailwind**, y automatización con **agentes AI**.
+Construyo productos digitales con foco en diseño y performance. Especializado en **OKLCH design tokens**, arquitectura **3-layer Hardik Pandya**, **Astro + React + Tailwind**, y automatización con **agentes AI**.
 
 No hago plantillas. Escucho, entiendo, construyo.
 
