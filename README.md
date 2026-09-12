@@ -6,11 +6,7 @@
 
 ### 🧠 AI Engineer · Design Systems · Growth Partner
 
-Empecé hackeando themes de WordPress a los 16. Hoy diseño y construyo productos digitales con foco en performance y experiencia.
-
-Mi fascination with **Three.js** started when I realized the web could feel like a living, breathing space — not just flat pages. That obsession with motion and depth still drives every project.
-
-Cada proyecto es una historia corta: el cliente tiene un problema, yo escucho la primera frase, y ya sé qué armar. **Apolonia** nació de una charla de 10 minutos en una terraza. **Luisito Playa Grande** nació porque alguien me dijo "necesito un menú digital que no me haga perder clientes". Un fin de semana, un menú, pedidos por WhatsApp.
+Construyo productos digitales con foco en performance y experiencia de navegación.
 
 ---
 
