@@ -6,20 +6,9 @@
 
 ### 🧠 AI Engineer · Design Systems · Growth Partner
 
-Construyo productos digitales con foco en diseño y performance. Especializado en **Design Systems**, **Astro + React + Tailwind**, y automatización con **agentes AI**.
+Empecé hackeando themes de WordPress a los 16. Hoy diseño y construyo productos digitales con foco en performance y experiencia.
 
-Escucho, entiendo, construyo.
-
----
-
-### 🛠️ Stack
-
-```
-AI Agents   · OpenCode · SDD · Spec-Driven Development
-Design Systems · Tailwind v4
-Astro       · React 19 · TypeScript · Zustand
-PWA         · Vercel · WhatsApp Business API
-```
+Mi fascination with **Three.js** started when I realized the web could feel like a living, breathing space — not just flat pages. That obsession with motion and depth still drives every project.
 
 ---
 
@@ -27,9 +16,9 @@ PWA         · Vercel · WhatsApp Business API
 
 | Proyecto | Stack | Lo que hice |
 |----------|-------|-------------|
-| **[The Brand Crew](https://github.com/illushkinn/the-brand-crew)** | HTML/CSS · Design Systems · Vercel | Landing page con 0 errores de token audit, diseño cinematográfico, casos reales Behance-style |
-| **[Apolonia](https://github.com/illushkinn/verduleria-apolonia-mar-del-plata)** | Astro · React · Zustand · Tailwind v4 | Catálogo web 122 páginas, SEO local, PWA instalable, JSON-LD Product schema, WhatsApp checkout |
-| **[Luisito Playa Grande](https://github.com/illushkinn/luisito-playa-grande)** | Astro · Cart Modal · WhatsApp | Menú digital con carrito, pedidos WhatsApp, estilo vintage brutalista, 1955 heritage |
+| **[The Brand Crew](https://github.com/illushkinn/the-brand-crew)** | HTML/CSS · Vercel | Landing page con typewriter GSAP, hero cascade, pricing split |
+| **[Apolonia](https://github.com/illushkinn/verduleria-apolonia-mar-del-plata)** | Astro · React · Zustand | Catálogo web 122 páginas, SEO local, PWA instalable, WhatsApp checkout |
+| **[Luisito Playa Grande](https://github.com/illushkinn/luisito-playa-grande)** | Astro · Cart Modal | Menú digital con carrito, pedidos WhatsApp, estilo vintage brutalista |
 
 ---
 
@@ -43,7 +32,7 @@ PWA         · Vercel · WhatsApp Business API
 }
 ```
 
-> _"Carmen Ansio, Midudev y ManzDev me enseñaron que el over-engineering es el enemigo."_
+> _"Si necesitás GSAP para un efecto, preguntate si no podés hacerlo con una transición CSS de 0.3s. Si no podés, usá GSAP — pero no por default."_
 
 ---
 
