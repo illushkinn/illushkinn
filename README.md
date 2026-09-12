@@ -6,9 +6,9 @@
 
 ### 🧠 AI Engineer · Design Systems · Growth Partner
 
-Construyo productos digitales con foco en diseño y performance. Especializado en **OKLCH design tokens**, arquitectura **3-layer Hardik Pandya**, **Astro + React + Tailwind**, y automatización con **agentes AI**.
+Construyo productos digitales con foco en diseño y performance. Especializado en **Design Systems**, **Astro + React + Tailwind**, y automatización con **agentes AI**.
 
-No hago plantillas. Escucho, entiendo, construyo.
+Escucho, entiendo, construyo.
 
 Cada proyecto es una historia corta: el cliente tiene un problema, yo escucho la primera frase, y ya sé qué armar. **Apolonia** nació de una charla de 10 minutos en una terraza de Mar del Plata. **Luisito Playa Grande** nació porque alguien me dijo "necesito un menú digital que no me haga perder clientes". Así fue: un fin de semana, un menú, pedidos por WhatsApp.
 
@@ -18,7 +18,7 @@ Cada proyecto es una historia corta: el cliente tiene un problema, yo escucho la
 
 ```
 AI Agents   · OpenCode · SDD · Spec-Driven Development
-OKLCH       · Design Tokens 3-Layer · Tailwind v4
+Design Systems · Tailwind v4
 Astro       · React 19 · TypeScript · Zustand
 PWA         · Vercel · WhatsApp Business API
 ```
@@ -29,7 +29,7 @@ PWA         · Vercel · WhatsApp Business API
 
 | Proyecto | Stack | Lo que hice |
 |----------|-------|-------------|
-| **[The Brand Crew](https://github.com/illushkinn/the-brand-crew)** | HTML/CSS · OKLCH 3-Layer · Vercel | Landing page con typewriter GSAP, hero cascade, pricing split. 0 errores de token audit |
+| **[The Brand Crew](https://github.com/illushkinn/the-brand-crew)** | HTML/CSS · Design Systems · Vercel | Landing page con typewriter GSAP, hero cascade, pricing split |
 | **[Apolonia](https://github.com/illushkinn/verduleria-apolonia-mar-del-plata)** | Astro · React · Zustand · Tailwind v4 | Catálogo web 122 páginas, SEO local, PWA instalable, JSON-LD Product schema, WhatsApp checkout. El cliente me buscó después de ver el primer prototipo |
 | **[Luisito Playa Grande](https://github.com/illushkinn/luisito-playa-grande)** | Astro · Cart Modal · WhatsApp | Menú digital con carrito, pedidos WhatsApp, estilo vintage brutalista, 1955 heritage. Un fin de semana. Sin especificaciones. |
 
