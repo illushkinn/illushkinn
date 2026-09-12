@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&size=32&duration=3000&pause=1000&color=0066B1&center=true&vCenter=true&width=600&lines=Illya+Grytsyk;AI+Engineer+%26+Design+Systems;Growth+Partner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Sora&weight=700&size=32&duration=3000&pause=1000&color=0066B1&center=true&vCenter=true&width=600&lines=Illya+Grytsyk;AI+Agent+Designer+%26+Design+Systems;Growth+Partner" alt="Typing SVG" />
 </div>
 
 ---
 
-### 🧠 AI Engineer · Design Systems · Growth Partner
+### 🧠 AI Agent Designer · Design Systems · Growth Partner
 
 Construyo productos digitales con foco en performance y experiencia de navegación.
 
@@ -15,7 +15,6 @@ Construyo productos digitales con foco en performance y experiencia de navegaci�
 | Proyecto | Stack | Lo que hice |
 |----------|-------|-------------|
 | **[The Brand Crew](https://github.com/illushkinn/the-brand-crew)** | HTML/CSS · Vercel | Landing page con typewriter GSAP, hero cascade, pricing split |
-| **[Apolonia](https://github.com/illushkinn/verduleria-apolonia-mar-del-plata)** | Astro · React · Zustand | Catálogo web 122 páginas, SEO local, PWA instalable, WhatsApp checkout |
 | **[Luisito Playa Grande](https://github.com/illushkinn/luisito-playa-grande)** | Astro · Cart Modal | Menú digital con carrito, pedidos WhatsApp, estilo vintage brutalista |
 
 ---
