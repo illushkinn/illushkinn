@@ -19,20 +19,6 @@ Construyo productos digitales con foco en performance y experiencia de navegaci�
 
 ---
 
-### 📐 Filosofía de código
-
-```css
-/* CSS puro resuelve el 90%. Auto-fit + minmax sobre media queries. */
-.bentoGrid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-}
-```
-
-> _"Si necesitás GSAP para un efecto, preguntate si no podés hacerlo con una transición CSS de 0.3s. Si no podés, usá GSAP — pero no por default."_
-
----
-
 ### 📡 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0066B1?style=flat&logo=linkedin)](https://www.linkedin.com/in/illya-grytsyk/)
